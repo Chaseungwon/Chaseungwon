@@ -1,0 +1,7 @@
+[grasmaaien]
+title = Grasmaaien & Warm Weer
+script = Geniet van de warme zomerdagen terwijl jouw gazon er perfect bij ligt. Met de juiste grasmaaier maak je snel en moeiteloos je gazon netjes. Warm weer, frisse lucht, en een prachtig gazon – dat is de zomer op zijn best. Bestel nu jouw grasmaaier en maak van elke zonnige dag een feestje!
+
+[waterdrink]
+title = Frisse Waterdrankjes
+script = Blijf gehydrateerd deze zomer met onze heerlijke waterdrankjes. Puur, fris en vol smaak – gemaakt voor warme dagen. Of je nu sport, werkt of gewoon geniet van de zon, onze waterdrankjes geven jou de energie om door te gaan. Probeer ze vandaag nog en proef het verschil!
